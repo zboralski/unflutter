@@ -1,0 +1,4 @@
+github.com/zboralski/lattice v0.1.0 h1:XUShKXaj9xL/RPx+a8ktFi/cJVNWYAHrEM5Z1BUuKD0=
+github.com/zboralski/lattice v0.1.0/go.mod h1:NPS/ujKSnKORFtvgeynxz4U8uyyBkuD7voYnI2JwIMQ=
+golang.org/x/arch v0.23.0 h1:lKF64A2jF6Zd8L0knGltUnegD62JMFBiCPBmQpToHhg=
+golang.org/x/arch v0.23.0/go.mod h1:dNHoOeKiyja7GTvF9NJS1l3Z2yntpQNzgrjh1cU103A=
